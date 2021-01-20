@@ -7,7 +7,7 @@
 
 #### 官方网站
 
-www.veango.com
+www.cenparty.com
 
 #### 如需sdk使用，请联系谭先生，QQ:2875752033
 
