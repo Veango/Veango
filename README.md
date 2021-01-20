@@ -12,5 +12,5 @@ www.veango.com
 #### 如需sdk使用，请联系谭先生，QQ:2875752033
 
 
-![唱歌](https://gitee.com/Mt_Tan/app/blob/master/features-mock-back_temp.png "唱歌")
-![语聊](https://gitee.com/Mt_Tan/app/blob/master/features-mock-front_temp.png "语聊")
+![唱歌](https://github.com/Veango/veango/blob/master/features-mock-back_temp.png "唱歌")
+![语聊](https://github.com/Veango/veango/blob/master/features-mock-front_temp.png "语聊")
